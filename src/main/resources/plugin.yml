@@ -1,0 +1,6 @@
+name: Scoreboard_Ethria
+version: '${project.version}'
+main: n0devx.scoreboard_ethria.Scoreboard_Ethria
+api-version: 1.18
+softdepend: [PlaceholderAPI] # This is used, if your plugin works without PlaceholderAPI.
+depend: [PlaceholderAPI] # If your plugin requires PlaceholderAPI, to work, use this.
